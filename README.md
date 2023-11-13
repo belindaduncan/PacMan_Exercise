@@ -2,6 +2,15 @@
 A exercise to test browser boundaries by having Pacman detect the edge of the page. 
 Name: PacMan_Exercise  
 Description: A exercise to test browser boundaries by having Pacman detect the edge of the page.
-Usage: Drag and drop HTML file in the web broswer to load page. Refresh page to start over. 
-Support: belinda.hm.duncan@gmail.com.
-Roadmap: 
+
+How to Install and Run the Project.
+  1. Download - Project files to local machine
+  4. Click and drag HTML file to local web browser.
+  5. Move the cursor on screen to see the interaction of the eye balls. 
+
+Roadmap of future improvements: 
+  1. Enhancement to be made include introducing buttons that would allow the user to open and close the eyes. Also in the works is creating a mouth so users can enjoy opening and closing the mouth. 
+
+License - MIT License
+
+
